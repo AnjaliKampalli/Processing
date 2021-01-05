@@ -9,7 +9,6 @@ class Ball{
         this.xPosition = x;
         this.yPosition = y;
     }
-
 }
 public class ProceduralSketchOOP extends PApplet {
 
